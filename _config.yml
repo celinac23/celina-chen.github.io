@@ -23,7 +23,8 @@ repository               : "celinac23.github.io/celina-chen.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "images/my_image.jpeg"
+  avatar: "/images/my_image.jpeg"
+
   name             : "Yufei (Celina) Chen"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at University of Toronto and Undergraduate Researcher at Vector Institute"
