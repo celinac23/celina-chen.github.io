@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m **Yufei (Celina) Chen**, an undergraduate student at the **University of Toronto** pursuing a Computer Science Specialist degree and an undergraduate researcher at the **Vector Institute**.
 
-I am broadly interested in **machine learning** and **artificial intelligence**, with particular focus on:
+I am broadly interested in **machine learning**, with particular focus on:
 
 - Differential privacy  
 - Machine unlearning  
